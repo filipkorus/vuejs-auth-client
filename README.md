@@ -1,4 +1,4 @@
-# jwt
+# vuejs-auth-client
 
 ## Project setup
 ```

@@ -1,5 +1,5 @@
 {
-  "name": "jwt",
+  "name": "vuejs-auth-client",
   "version": "0.1.0",
   "private": true,
   "scripts": {
